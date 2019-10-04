@@ -1,0 +1,16 @@
+nav{
+	float: left;
+	display: block;
+	height: 100%
+}
+
+/*main{
+	float: right;
+	display: block;
+}*/
+
+@media screen and (max-width: 600px){
+	nav{
+		width: 100%
+	}
+}
